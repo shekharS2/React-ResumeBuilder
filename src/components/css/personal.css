@@ -1,0 +1,26 @@
+.personal,
+.qual {
+  height: 93vh;
+  display: flex;
+}
+
+.form-container {
+  width: 50%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.save-qual {
+  position: fixed;
+  bottom: 8rem;
+  right: 40px;
+}
+
+.gen-qual {
+  position: fixed;
+  bottom: 12rem;
+  right: 40px;
+}
+
